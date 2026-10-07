@@ -88,4 +88,4 @@ This software is provided "as is", without warranty of any kind. The authors are
 
 ## License
 
-The repository's license can be found [here](LICENSE.MD).
+MIT, see [LICENSE](LICENSE.MD).
